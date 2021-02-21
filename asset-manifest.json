@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/foodcourt/static/css/main.59d35c15.chunk.css",
+    "main.js": "/foodcourt/static/js/main.b0567181.chunk.js",
+    "main.js.map": "/foodcourt/static/js/main.b0567181.chunk.js.map",
+    "runtime-main.js": "/foodcourt/static/js/runtime-main.cf137115.js",
+    "runtime-main.js.map": "/foodcourt/static/js/runtime-main.cf137115.js.map",
+    "static/css/2.658248ec.chunk.css": "/foodcourt/static/css/2.658248ec.chunk.css",
+    "static/js/2.6f0d8d2d.chunk.js": "/foodcourt/static/js/2.6f0d8d2d.chunk.js",
+    "static/js/2.6f0d8d2d.chunk.js.map": "/foodcourt/static/js/2.6f0d8d2d.chunk.js.map",
+    "index.html": "/foodcourt/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/foodcourt/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.59d35c15.chunk.css.map": "/foodcourt/static/css/main.59d35c15.chunk.css.map",
+    "static/js/2.6f0d8d2d.chunk.js.LICENSE.txt": "/foodcourt/static/js/2.6f0d8d2d.chunk.js.LICENSE.txt",
+    "static/media/chaap1.fa1143a4.png": "/foodcourt/static/media/chaap1.fa1143a4.png",
+    "static/media/chaap2.96f4e8c4.png": "/foodcourt/static/media/chaap2.96f4e8c4.png",
+    "static/media/gumball.3fbfeebb.png": "/foodcourt/static/media/gumball.3fbfeebb.png",
+    "static/media/hand2.216eea8d.png": "/foodcourt/static/media/hand2.216eea8d.png",
+    "static/media/milk.85f8acdf.png": "/foodcourt/static/media/milk.85f8acdf.png",
+    "static/media/momos1.db12709b.jpeg": "/foodcourt/static/media/momos1.db12709b.jpeg",
+    "static/media/sprinkles.2c33681e.png": "/foodcourt/static/media/sprinkles.2c33681e.png",
+    "static/media/tandoorimomos.c6770a0b.jpg": "/foodcourt/static/media/tandoorimomos.c6770a0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf137115.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.6f0d8d2d.chunk.js",
+    "static/css/main.59d35c15.chunk.css",
+    "static/js/main.b0567181.chunk.js"
+  ]
+}
